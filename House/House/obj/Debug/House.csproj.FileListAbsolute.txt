@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\House\House\bin\Debug\House.exe.config
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\House\House\bin\Debug\House.exe
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\House\House\bin\Debug\House.pdb
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\House\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\House\House\obj\Debug\House.exe
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\House\House\obj\Debug\House.pdb

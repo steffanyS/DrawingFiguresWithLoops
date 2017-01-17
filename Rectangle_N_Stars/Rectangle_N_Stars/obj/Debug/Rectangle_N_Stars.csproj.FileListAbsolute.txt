@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rectangle_N_Stars\Rectangle_N_Stars\bin\Debug\Rectangle_N_Stars.exe.config
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rectangle_N_Stars\Rectangle_N_Stars\bin\Debug\Rectangle_N_Stars.exe
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rectangle_N_Stars\Rectangle_N_Stars\bin\Debug\Rectangle_N_Stars.pdb
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rectangle_N_Stars\Rectangle_N_Stars\obj\Debug\Rectangle_N_Stars.exe
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rectangle_N_Stars\Rectangle_N_Stars\obj\Debug\Rectangle_N_Stars.pdb

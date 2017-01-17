@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rhombus_of_Stars\Rhombus_of_Stars\bin\Debug\Rhombus_of_Stars.exe.config
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rhombus_of_Stars\Rhombus_of_Stars\bin\Debug\Rhombus_of_Stars.exe
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rhombus_of_Stars\Rhombus_of_Stars\bin\Debug\Rhombus_of_Stars.pdb
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rhombus_of_Stars\Rhombus_of_Stars\obj\Debug\Rhombus_of_Stars.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rhombus_of_Stars\Rhombus_of_Stars\obj\Debug\Rhombus_of_Stars.exe
+E:\SoftUni\ProgrammingBasics\06.Drawing Figures with Loops\Rhombus_of_Stars\Rhombus_of_Stars\obj\Debug\Rhombus_of_Stars.pdb
